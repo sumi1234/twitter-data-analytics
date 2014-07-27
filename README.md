@@ -3,11 +3,11 @@ twitter-data-analytics
 
 This repo consists of python scripts to analyze twitter data - both real-time and stored.
 
-The repository consists of the following : 
-1. A web application to determine the sentiment of an entity based on twitter data in real-time.
-2. Script to mine and preprocess twitter data.
-3. Script to analyze twitter data using sample data collected during the football world cup final.
-4. Script demonstrating sentiment analysis of twitter data.
+The repository consists of the following : <br>
+1. A web application to determine the sentiment of an entity based on twitter data in real-time.<br>
+2. Script to mine and preprocess twitter data.<br>
+3. Script to analyze twitter data using sample data collected during the football world cup final.<br>
+4. Script demonstrating sentiment analysis of twitter data.<br>
 
 
 Dependencies:
