@@ -14,4 +14,4 @@ Dependencies:
 The project was developed using python 2.7.6.
 External libraries used include pandas, numpy, sklearn, nltk, flask.
 
-I will soon be adding the code in the form of ipython notebooks.
+Edit: Added Ipython notebooks describing analysis of twitter data
